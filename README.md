@@ -25,3 +25,9 @@ LCC
 
 3. Install all dependencies via pip then save to requirements
 pip freeze > requirements.txt
+
+
+
+# Data source
+
+All data are publicly available in the Leicester Swift website (see references in Shilling et al. 2026; https://academic.oup.com/mnras/article/552/2/stag1589/8767814)
