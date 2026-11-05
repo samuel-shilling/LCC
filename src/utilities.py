@@ -7,7 +7,7 @@ def build_individual_grb_table(full_df,GRB_name):
     GRB=full_df[full_df['GRB']==GRB_name]
     return(GRB)
 
-#separate flare data from non-flare data
+#separate flare data from non-flare data and append a binary flare flag to the full data
 def separate_flare_data(df):
 
     #number of flares for this grb
